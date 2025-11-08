@@ -1,1 +1,1 @@
-git@github.com:qwellqy/slozhno-sosredotochitsya-fd.git
+https://github.com/qwellqy/slozhno-sosredotochitsya-fd.git
