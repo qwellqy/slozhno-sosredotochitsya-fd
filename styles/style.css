@@ -192,11 +192,11 @@
   padding: 10px;
   font-family: "IBM Plex Mono", sans-serif;
   background-color: var(--background-color);
-  margin-block-end: 40px;
+  margin-block-end: 30px;
   @media (width >=768px) {
     gap: 80px;
     padding: 20px;
-    margin-block-end: 60px;
+    margin-block-end: 40px;
   }
 }
 
