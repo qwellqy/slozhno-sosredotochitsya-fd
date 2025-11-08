@@ -16,12 +16,11 @@
   height: 100vh;
   min-height: 668px;
   font-family: "IBM Plex mono", sans-serif;
-
-  @media (width >=375px) {
-    padding: 10px;
-  }
+  padding: 10px;
+  margin-block-end: 40px;
   @media (width >=768px) {
     padding: 0px;
+    margin-block-end: 60px;
   }
 }
 
@@ -102,7 +101,6 @@
   color: var(--title-text-color);
   font-family: "IBM Plex mono", sans-serif;
   font-weight: 700;
-  font-weight: bold;
   font-size: 18px;
   background-color: var(--accent-color);
   max-inline-size: 355px;
