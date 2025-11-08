@@ -17,7 +17,7 @@
   min-height: 668px;
   font-family: "IBM Plex mono", sans-serif;
   padding: 10px;
-  margin-block-end: 20px;
+  margin-block-end: 30px;
   @media (width >=768px) {
     padding: 0px;
     margin-block-end: 40px;
@@ -192,9 +192,11 @@
   padding: 10px;
   font-family: "IBM Plex Mono", sans-serif;
   background-color: var(--background-color);
+  margin-block-end: 40px;
   @media (width >=768px) {
     gap: 80px;
     padding: 20px;
+    margin-block-end: 60px;
   }
 }
 
