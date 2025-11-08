@@ -10,11 +10,14 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --cover-image: url("../images/cover-image-dark.png");
-  --background-color: #020231;
-  --text-color: #f1b2ce;
-  --title-color: #db00ff;
-  --accent-color: #ff0070;
-  --button-color: #ff0070;
-  --content-text-color: #f1b2ce;
-  --content-section__title: #ff0070;
+  --background-color: #000028;
+  --content-text-color: #F1B2CE;
+  --title-text-color: #000028;
+  --title-decor-color: #DB00FF;
+  --accent-color: #FF0070;
+  --button-color: #FF0070;
+  --content-text-color: #F1B2CE;
+  --content-section-title: #FF0070;
+  --color-rec: #FF0070;
+  --decor-color: #FF0070;
 }

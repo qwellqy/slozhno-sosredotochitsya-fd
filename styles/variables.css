@@ -1,11 +1,13 @@
 
 :root {
   --cover-image: url("../images/cover-image-dark.png");
-  --background-color: #020231;
+  --background-color: ##000028;
   --content-text-color: #f1b2ce;
   --title-text-color: #000028;
   --title-decor-color: #db00ff;
   --accent-color: #ff0070;
   --button-color: #ff0070;
-  --content-section__title: #ff0070;
+  --content-section-title: #ff0070;
+  --color-rec:#ff0070;
+  --decor-color:#ff0070;
 }

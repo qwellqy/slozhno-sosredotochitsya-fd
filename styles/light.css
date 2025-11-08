@@ -11,30 +11,34 @@
   */
 
   --cover-image: url("../images/cover-image-light.png");
-  --background-color: #f5eaf3;
+  --background-color: #FFF1F7;
   --title-text-color: #353430;
-  --title-decor-color: #ffc2e6;
-  --accent-color: #ff8dcb;
+  --title-decor-color: #FFC2E6;
+  --accent-color: #FF8DCB;
   --button-color: #353430;
   --content-text-color: #353430;
-  --content-section__title: #353430;
+  --content-section-title: #353430;
+  --decor-color: #353430;
+}
+
+.theme-light .header__rec {
+  display: none;
+}
+
   @media (prefers-color-scheme: light) {
     :root {
       --cover-image: url("../images/cover-image-light.png");
-      --background-color: #fbfbfb;
+      --background-color: #FFF1F7;
       --title-text-color: #353430;
-      --title-decor-color: #ffc2e6;
-      --accent-color: #ff8dcb;
+      --title-decor-color: #FFC2E6;
+      --accent-color: #FF8DCB;
       --button-color: #353430;
       --content-text-color: #353430;
-      --content-section__title: #353430;
+      --content-section-title: #353430;
+      --decor-color: #353430;
     }
     .header__rec {
       display: none;
     }
   }
-}
 
-:root.theme-light .header__rec {
-  display: none;
-}
