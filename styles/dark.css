@@ -21,3 +21,9 @@
   --color-rec: #ff0070;
   --decor-color: #ff0070;
 }
+ .theme-dark .header__rec {
+  display:flex;
+} 
+
+
+

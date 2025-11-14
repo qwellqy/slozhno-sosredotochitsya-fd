@@ -37,4 +37,7 @@
     --content-section-title: #353430;
     --decor-color: #353430;
   }
+  .theme-auto .header__rec{
+    display: none;
+  }
 }
